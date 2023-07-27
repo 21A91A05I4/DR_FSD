@@ -1,0 +1,14 @@
+.external{
+	border: 2px dashed orchid;
+	background-color: lightskyblue;
+}
+
+.red{
+	color: red;
+}
+
+#idselector{
+	color: peachpuff;
+	font-size: 50px;
+	font-family: cursive;
+}
