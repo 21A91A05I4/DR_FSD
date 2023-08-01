@@ -1,0 +1,81 @@
+.external{
+	border: 2px dashed orchid;
+	background-color: lightskyblue;
+}
+
+.red{
+	color: red;
+}
+
+#idselector{
+	color: peachpuff;
+	font-size: 50px;
+	font-family: cursive;
+}
+
+h2{
+	color: peachpuff;
+	font-family: cursive;
+	font-size: 30px;
+}
+h3{
+	color: orchid;
+	font-kerning: !important;
+	font-size: 40px;
+	border-style: dotted;
+}
+*{
+	font-family: cursive;
+	margin: 0px;
+	padding: 0px;
+}
+input[type]
+{
+	color: lightskyblue;
+}
+input[type="text"]
+{
+	color: goldenrod;
+}
+input[type="number"]
+{
+	color: orchid;
+}
+/*
+a[href]
+{
+	color: pink;
+}
+-->*/
+img[src]
+{
+	border: pink;
+	border-style: dashed;
+	border-width: 3px;
+
+}
+a:link{
+	color: pink;
+}
+a:visited{
+	color: orchid;
+}
+a:hover{
+	color: lightskyblue;
+}
+a:active{
+	color: yellow;
+}
+body{
+	background-image: url('nature.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+div{
+	height: 300px;
+	width: 600px;
+	border: 5px solid orchid;
+	background-image:url(../html/images/bag.jpg) ;
+	background-size: cover;
+
+}

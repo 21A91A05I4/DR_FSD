@@ -1,0 +1,27 @@
+/*-//dashed,solid,double,groove,ridge,inset --
+span{
+	border-style: groove;
+  border-width: 5px;
+	border-color: red green blue yellow;
+	border-top-style: groove;
+	border-left-style: double;
+	border-bottom-style: inset;
+	border-right-style: double;
+	background-color: yellow;
+	border-radius: 10px; 
+	border: 5px dashed blue;
+}*/
+div{
+	height: 300px;
+	width: 600px;
+	text-align: center;
+	background-color: pink;
+	background-clip: padding-box;
+	border: 20px dotted red;
+}
+span{
+	height: 300px;
+	width: 600px;
+  box-shadow: 0 0 0 5px darkturquoise;
+  outline: dashed 5px  firebrick;
+}

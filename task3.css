@@ -1,0 +1,7 @@
+div{
+    border-width: 8px;
+   -webkit-border-image: url(stamp.gif) 8 / 8px round;
+   -moz-border-image: url(stamp.gif) 8 / 8px round;
+   -o-border-image: url(stamp.gif) 8  round;
+    border-image: url(stamp.gif) 8 / 8px  round;
+    }
